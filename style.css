@@ -1,0 +1,13 @@
+#MyClockDisplay {
+    /* text-align: center; */
+    color: #000000;
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    padding: 20px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid red; */
+  }
+  
